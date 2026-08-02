@@ -7,7 +7,7 @@ like
 5. ss -tulnp >> to know about the port opened and who is using it
 
 also today i get to know how to use variables in bash and to make a file exutable and the best practice for 
-a bash script by using set -euo pipefail So if there is a problem apper i know 
+a bash script by using set -euo pipefail So if there is a problem apperes 
 
 
 
